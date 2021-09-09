@@ -1,3 +1,4 @@
 .DS_Store
 .vscode
 /node_modules/
+/go-gen/create_react_component/go-gen-create-react-component
